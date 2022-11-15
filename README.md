@@ -51,7 +51,6 @@ after installing/upgrading to dotnet sdk 5.
 
 | Version               | DotNet SDK                       | Arch        | Remarks
 |-----------------------|----------------------------------|-------------|---------
-| `dotnet-sdk7-preview` | dotnet 7.0.100-preview.7.22377.5 | x64 & arm64 |
 
 **Note**: Preview versions is a newly supported feature (as of September 2022). Please send feedback/create issues
 if there are problems with the compatibility of the preview versions.
